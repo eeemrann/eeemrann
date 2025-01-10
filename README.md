@@ -1,4 +1,4 @@
-## <img align="left" src='https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif' width="100px"> Let's Dive Into My Github
+## <img align="left" src='https://media.giphy.com/media/3oFyDaQx7mPZEqJwFG/giphy.gif' width="100px"> Let's Dive Into My Github
 Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my Python and web development skills! The adventure never ends! 🚀
 
 - Aspiring cybersecurity & data science professional with a knack for problem-solving.
