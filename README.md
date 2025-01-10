@@ -1,8 +1,11 @@
+
 # Hi there, I'm Emran! 👋
 
-![Welcome Gif](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Welcome Gif" style="width: 100px; height: auto; margin-right: 20px;">
+  <p>Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here, you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and connect with me.</p>
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here, you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and connect with me.
 📫 How to reach me **securedbymahdi@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
