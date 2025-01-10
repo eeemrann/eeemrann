@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emran</h1>
 <h3 align="center">Passionate about problem-solving, research, and building innovative solutions.</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eeemrann&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=0e75b6&style=flat" alt="eeemrann" /> </p>
 
