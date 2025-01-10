@@ -1,10 +1,11 @@
 
-# Hi there, I'm Emran! 👋
+## <img align="left" src='https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif' width="100px"> What's up with my GitHub? 
+Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on sharpening my skills in Python! The journey is just beginning! 🚀
+- I'm a second-year student studying Computer Science and Engineering at Brac University.
+- I'm currently doing a fellowship at Headstarter.
+- I'm enhancing my knowledge in Web Development technologies.
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Welcome Gif" style="width: 100px; height: auto; margin-right: 20px;">
-  <p>Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here, you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and connect with me.</p>
-</div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
 
 📫 How to reach me **securedbymahdi@gmail.com**
 
