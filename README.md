@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Emran</h1>
-<h3 align="center">Passionate about problem-solving, research, and building innovative solutions.</h3>
+# Hi there, I'm Emran! 👋
+
+![Welcome Gif](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here, you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and connect with me.
 📫 How to reach me **securedbymahdi@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
