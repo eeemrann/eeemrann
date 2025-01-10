@@ -1,4 +1,4 @@
-## <img align="left" src='https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif' width="100px"> Let's Dive Into My GitHub
+## <img align="left" src='https://your-refined-gif-url.gif' width="100px"> Let's Dive Into My GitHub
 Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my Python and problem solving skills! The adventure never ends! Feel free to reach me: **securedbymahdi@gmail.com**
 - Aspiring cybersecurity & data science professional with a knack for problem-solving.
 - 3rd-year CSE student | Coding in Python, C, and C++ | AI enthusiast.
