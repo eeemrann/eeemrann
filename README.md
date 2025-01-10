@@ -1,5 +1,4 @@
-## <img align="left" src='https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif' width="100px"> Let's Dive Into My GitHub
-
+## <img align="left" src='https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif' width="100px"> Let's Dive Into My GitHub
 Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my Python and problem solving skills! The adventure never ends! Feel free to reach me: **securedbymahdi@gmail.com**
 - 3rd-year CSE student | Coding in Python, C, and C++ | AI enthusiast.
 - Passionate about coding, math, and building innovative solutions.
