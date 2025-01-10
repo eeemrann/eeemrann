@@ -1,5 +1,5 @@
-## <img align="left" src='https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif' width="100px"> Let's Dive Into My GitHub
-Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my Python and web development skills! The adventure never ends! 
+## <img align="left" src='https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif' width="100px"> Let's Dive Into My Github
+Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my Python and problem solving skills! The adventure never ends! 
 - Aspiring cybersecurity & data science professional with a knack for problem-solving.
 - 3rd-year CSE student | Coding in Python, C, and C++ | AI enthusiast.
 - Passionate about coding, math, and building innovative solutions.
@@ -13,7 +13,7 @@ Thanks for visiting my profile. Here are a few things you can check out! Current
 
 ## GET IN TOUCH
 
-📫 How to reach me **securedbymahdi@gmail.com**
+📫 How to reach me: **securedbymahdi@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahdi hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdi hasan" height="30" width="40" /></a>
