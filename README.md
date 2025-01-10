@@ -1,44 +1,33 @@
-# Hi there, I'm Emran! 👋
+<h1 align="center">Hi 👋, I'm Emran</h1>
+<h3 align="center">Passionate about problem-solving, research, and building innovative solutions.</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here, you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and connect with me.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=0e75b6&style=flat" alt="eeemrann" /> </p>
 
-## 🔧 Technologies & Tools
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeemrann" alt="eeemrann" /></a> </p>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+<p align="left"> <a href="https://twitter.com/mahdi hasan" target="blank"><img src="https://img.shields.io/twitter/follow/mahdi hasan?logo=twitter&style=for-the-badge" alt="mahdi hasan" /></a> </p>
 
-## 🌱 Currently Learning
+- 🔭 I’m currently working on [EPI Vaccination Project](https://github.com/eeemrann/Project/blob/main/Epi_Vaccination.txt)
 
-- Advanced TypeScript
-- Kubernetes
-- Machine Learning with Python
+- 🌱 I’m currently learning **Machine Learning with Python**
 
-## 🛠️ Projects
+- 📫 How to reach me **securedbymahdi@gmail.com**
 
-Here are a few projects I've been working on:
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y9efAczAZV8MRtoxW2tn1xBEJ7LWtOiu/view?usp=sharing](https://drive.google.com/file/d/1Y9efAczAZV8MRtoxW2tn1xBEJ7LWtOiu/view?usp=sharing)
 
-- **[Project Name](https://github.com/username/project-name)**: A brief description of the project.
-- **[Another Project](https://github.com/username/another-project)**: A brief description of the project.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mahdi hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdi hasan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahdi hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi hasan" height="30" width="40" /></a>
+<a href="https://kaggle.com/mahdi hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahdi hasan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/phoenixred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="phoenixred" height="30" width="40" /></a>
+</p>
 
-## 📫 How to Reach Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
 
-## 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eeemrann&show_icons=true&locale=en" alt="eeemrann" /></p>
 
-![Emran's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeemrann&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeemrann&layout=compact&theme=dark)
-
----
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about tech.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eeemrann&" alt="eeemrann" /></p>
