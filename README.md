@@ -1,12 +1,13 @@
-## <img align="left" src='https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif' width="100px"> Let’s Dive Into My GitHub 
-Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my skills in Python and web development! The adventure never ends! 🚀
+## <img align="left" src='https://media.giphy.com/media/26FPqg0rRgcWekf8k/giphy.gif' width="100px"> What's up with my GitHub? 
+Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my Python and web development skills! The adventure never ends! 🚀
 
 - Aspiring cybersecurity & data science professional with a knack for problem-solving.
 - 3rd-year CSE student | Coding in Python, C, and C++ | AI enthusiast.
 - Passionate about coding, math, and building innovative solutions.
 - Data science enthusiast aiming for a research-driven career in tech.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Noblesse013&label=Goldberg%20views&color=f1495c&style=transparent" alt="Noblesse013" /> </p>
+
 📫 How to reach me **securedbymahdi@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
