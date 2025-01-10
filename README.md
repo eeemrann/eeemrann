@@ -1,13 +1,11 @@
 ## <img align="left" src='https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif' width="100px"> Let's Dive Into My Github
 Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my Python and web development skills! The adventure never ends! 
-
 - Aspiring cybersecurity & data science professional with a knack for problem-solving.
 - 3rd-year CSE student | Coding in Python, C, and C++ | AI enthusiast.
 - Passionate about coding, math, and building innovative solutions.
 - Data science enthusiast aiming for a research-driven career in tech.
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
-
 📫 How to reach me **securedbymahdi@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
