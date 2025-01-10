@@ -4,9 +4,13 @@ Thanks for visiting my profile. Here are a few things you can check out! Current
 - 3rd-year CSE student | Coding in Python, C, and C++ | AI enthusiast.
 - Passionate about coding, math, and building innovative solutions.
 - Data science enthusiast aiming for a research-driven career in tech.
-#STATS
+- 
+##STATS
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
+#
 #GET IN TOUCH
+
 📫 How to reach me **securedbymahdi@gmail.com**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
 
