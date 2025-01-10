@@ -1,9 +1,11 @@
 
-## <img align="left" src='https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif' width="100px"> What's up with my GitHub? 
-Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on sharpening my skills in Python! The journey is just beginning! 🚀
-- I'm a second-year student studying Computer Science and Engineering at Brac University.
-- I'm currently doing a fellowship at Headstarter.
-- I'm enhancing my knowledge in Web Development technologies.
+
+## <img align="left" src='https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif' width="100px"> Let’s Dive Into My GitHub 
+Thanks for visiting my profile. Here are a few things you can check out! Currently, I'm focused on improving my skills in Python and web development! The adventure never ends! 🚀
+-Aspiring cybersecurity & data science professional with a knack for problem-solving.
+-3rd-year CSE student | Coding in Python, C, and C++ | AI enthusiast.
+-Passionate about coding, math, and building innovative solutions.
+-Data science enthusiast aiming for a research-driven career in tech.
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
 
