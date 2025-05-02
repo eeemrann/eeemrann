@@ -20,8 +20,6 @@ Thanks for visiting. Here are a few things you can check out! Currently, I'm foc
   </tr>
 </table>
 
-`JavaScript`          | `Seaborn`, `Matplotlib`                | `Bootstrap v5`, `Flask`
-
 
 ---
 
