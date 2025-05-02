@@ -12,11 +12,13 @@ Thanks for visiting. Here are a few things you can check out! Currently, I'm foc
     <th>🧑‍💻 Languages</th>
     <th>📊 Data Visualization Libraries</th>
     <th>🌐 Web Frameworks</th>
+    <th>☁️ Cloud Basics</th>
   </tr>
   <tr>
     <td align="center"><code>JavaScript</code></td>
     <td align="center"><code>Seaborn</code><br><code>Matplotlib</code></td>
     <td align="center"><code>Bootstrap v5</code><br><code>Flask</code></td>
+    <td align="center"><code>Heroku</code></td>
   </tr>
 </table>
 
