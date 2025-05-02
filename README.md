@@ -11,10 +11,6 @@ Thanks for visiting. Here are a few things you can check out! Currently, I'm foc
 - **Libraries:** Seaborn, Matplotlib 
 - **Frameworks:** Bootstrap v5, Flask 
 
-
-### 🛸 Starred Projects
-
-📅 EPI Vaccination System -> https://github.com/eeemrann/EPI_Vaccination_System
 ---
 
 ## STATS
