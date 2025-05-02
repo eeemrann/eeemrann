@@ -5,12 +5,13 @@ Thanks for visiting. Here are a few things you can check out! Currently, I'm foc
 - Data science enthusiast aiming for a research-driven career in tech.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
 
----
 ## 🛠️ Currently Learning
 
 - **Languages:** JavaScript  
 - **Frameworks:** Bootstrap v5, Flask 
 - **Libraries:** Seaborn, Matplotlib, Pandas
+
+---
 
 ## STATS
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
