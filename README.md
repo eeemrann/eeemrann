@@ -8,7 +8,7 @@ Thanks for visiting. Here are a few things you can check out! Currently, I'm foc
 ### Currently Exploring
 
 **🧑‍💻 Languages** | **📊 Data Visualization Libraries** | **🌐 Web Frameworks**  
-`JavaScript`       | `Seaborn`, `Matplotlib`             | `Bootstrap v5`, `Flask`
+`JavaScript`          | `Seaborn`, `Matplotlib`                | `Bootstrap v5`, `Flask`
 
 
 ---
