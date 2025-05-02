@@ -7,9 +7,10 @@ Thanks for visiting. Here are a few things you can check out! Currently, I'm foc
 
 ## 🛠️ Currently Learning
 
-- **Languages:** JavaScript  
+- **Languages:** JavaScript
+- **Libraries:** Seaborn, Matplotlib 
 - **Frameworks:** Bootstrap v5, Flask 
-- **Libraries:** Seaborn, Matplotlib, Pandas
+
 
 ---
 
