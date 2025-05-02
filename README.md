@@ -1,7 +1,7 @@
 ## <img align="left" src='https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif' width="100px"> Let's Dive Into My GitHub
-Thanks for visiting. Here are a few things you can check out! Currently, I'm focused on improving my Python and problem solving skills! The adventure never ends! Feel free to reach me: **securedbymahdi@gmail.com**
+Thanks for visiting. Here are a few things you can check out! Currently, I'm focused on improving my Python and problem-solving skills! The adventure never ends! Feel free to reach me: **securedbymahdi@gmail.com**
 - Undergrad CSE student | Coding in Python, C, and C++ | AI enthusiast.
-- Passionate about coding, math, and building innovative solutions.
+- Passionate about **coding**, **math**, and building **innovative solutions**.
 - Data science enthusiast aiming for a research-driven career in tech.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
 
