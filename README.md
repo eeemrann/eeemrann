@@ -2,7 +2,7 @@
 Thanks for visiting. Here are a few things you can check out! Currently, I'm focused on improving my problem-solving skills! The adventure never ends! Feel free to reach me: **securedbymahdi@gmail.com**
 - Undergrad CSE student | Coding in **Python**, **C**, and **C++** | AI enthusiast.
 - Passionate about **coding**, **math**, and building **innovative solutions**.
-- Data science enthusiast aiming for a research-driven career in tech.
+- Industry-focused tech career to solve real-world problems with data-driven solutions.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
 
 ## 🛠️ Currently Exploring
