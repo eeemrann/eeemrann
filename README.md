@@ -1,36 +1,101 @@
-## <img align="left" src='https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif' width="100px"> Let's Dive Into My GitHub
-Thanks for visiting. Here are a few things you can check out! Currently, I'm focused on improving my problem-solving skills! The adventure never ends! Feel free to reach me: **securedbymahdi@gmail.com**
-- Undergrad CSE student | Coding in **Python**, **C**, and **C++** | AI enthusiast.
-- Passionate about **coding**, **math**, and building **innovative solutions**.
-- Industry-focused tech career to solve real-world problems with data-driven solutions.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=eeemrann&label=Profile%20views&color=blue&style=flat" alt="eeemrann" /> </p>
+<h1 align="center">Hi 👋, I'm Mahdi Hasan Emran</h1>
 
-## 🛠️ Currently Exploring
+<h3 align="center">
+AI & Data Enthusiast | Software Developer | Building Intelligent Solutions
+</h3>
 
-<table>
-  <tr>
-    <th>🧑‍💻 Languages</th>
-    <th>📊 Data Visualization Libraries</th>
-    <th>🌐 Web Frameworks</th>
-    <th>☁️ Cloud Basics</th>
-  </tr>
-  <tr>
-    <td align="center"><code>JavaScript</code></td>
-    <td align="center"><code>Seaborn</code><br><code>Matplotlib</code></td>
-    <td align="center"><code>Bootstrap v5</code><br><code>Flask</code></td>
-    <td align="center"><code>Heroku</code></td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="mailto:securedbymahdi@gmail.com">Email</a> •
+  <a href="https://github.com/eeemrann">GitHub</a> •
+  <a href="https://linkedin.com/in/mahdi-hasan-emran">LinkedIn</a>
+</p>
 
 ---
 
-## STATS
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&show_icons=true&locale=en&layout=compact" alt="eeemrann" /></p>
+## 👨‍💻 About Me
 
-## Languages and Tools:
+I am a Computer Science graduate focused on **Artificial Intelligence, Data Analytics, and Software Engineering**.
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+My interests lie in building **data-driven intelligent systems** using Machine Learning, Computer Vision, NLP, and scalable software technologies.
+
+Currently exploring advanced AI techniques while developing solutions that connect research with real-world applications.
+
+- 🤖 AI & Machine Learning enthusiast
+- 📊 Interested in Data Analytics and intelligent decision systems
+- 💻 Experienced with Python, C++, JavaScript, SQL and modern development tools
+- 🔐 Interested in secure and reliable software systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
 
+### AI / Data Science
 
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Explainable AI
+- Predictive Modeling
+
+Tools:
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Hugging Face` `Pandas` `NumPy`
+
+---
+
+### Software Development
+
+`React.js` `Node.js` `Express.js`  
+`MongoDB` `SQL` `Firebase`  
+`Docker` `Git` `Linux`
+
+---
+
+## 🚀 Featured Interests
+
+### Artificial Intelligence
+Building intelligent systems using:
+- Computer Vision
+- Transformer Models
+- Data Analytics
+- Machine Learning Pipelines
+
+### Software Engineering
+Developing:
+- Scalable applications
+- Secure systems
+- Data-driven products
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eeemrann&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🎯 Focused on AI-driven problem solving
+- 🧠 Experience with Machine Learning and Deep Learning workflows
+- 💻 Building software solutions with modern development technologies
+- 🏅 ICPC participant and AI Hackathon participant
+
+---
+
+## 📫 Connect With Me
+
+📧 securedbymahdi@gmail.com
+
+⭐ Always interested in AI, software engineering, and impactful technology.
